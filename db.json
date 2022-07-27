@@ -1,6 +1,7 @@
 {"receipe":[
   {
-    "Name": "venpongal",
+    "id":1,
+    "name": "venpongal",
     "ingredients":[
       {
          "quantity": "2tsp",
@@ -25,6 +26,7 @@
      ]
   },
   { 
+    "id":2,
       "name": "Curried Lentils and Rice",
         "ingredients": [
             {
@@ -62,9 +64,11 @@
         ]
 },
 {
-     "Name": "masal dosa",
+    "id":3,
+     "name": "masal dosa",
     "ingredients":[
       {
+        
          "quantity": "1 cup",
           "name": "dosa butter ",
           "type": "butter"
