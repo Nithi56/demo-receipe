@@ -52,7 +52,7 @@
                 "type": "Condiments"
             }
         ],
-        "steps": [
+        "preparation": [
             "Bring broth to a low boil.",
             "Add curry powder and salt.",
             "Cook lentils for 20 minutes.",
@@ -82,7 +82,7 @@
       "Spread the butter and  masala ",
       "close the pan",
       "Ready the masal dosa"
-     ]
+     ],
   
 ]
 }
