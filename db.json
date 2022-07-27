@@ -2,7 +2,7 @@
   {
     "id":1,
     "name": "venpongal",
-    "ingredients":["Ghee","Moong dal" ,"water","salt"]
+    "ingredients":["Ghee","Moong dal" ,"water","salt"],
        "preparation":[
       "pour 2tps ghee added to a cooker",
       "Roasted the moong dal and add the  rice ",
@@ -13,7 +13,7 @@
     "id":2,
       "name": "Curried Lentils and Rice",
    
-        "ingredients": [ "beef broth", "dried green lentils",  "curry powder","basmati rice","salt",],
+        "ingredients": [ "beef broth", "dried green lentils",  "curry powder","basmati rice","salt"],
            
         "preparation": [
             "Bring broth to a low boil.",
@@ -26,7 +26,7 @@
 {
     "id":3,
      "name": "masal dosa",
-    "ingredients":[ "dosa butter ", "potato masala"," groundnut oil",]
+    "ingredients":[ "dosa butter ", "potato masala"," groundnut oil"],
      
     "preparation":[
       "Take the pan and the oil",
