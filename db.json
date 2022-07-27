@@ -16,14 +16,15 @@
          "quantity": "1cup",
           "name": "moong dal ",
           "type": "dal"
-      },
+      }
       ],
     "preparation":[
       "pour 2tps ghee added to a cooker",
       "Roasted the moong dal and add the  rice ",
       "added the water and required salt"
-     ],
-    
+     ]
+  },
+  { 
       "name": "Curried Lentils and Rice",
         "ingredients": [
             {
@@ -58,7 +59,9 @@
             "Cook lentils for 20 minutes.",
             "Add rice and simmer for 20 minutes.",
             "Enjoy!"
-        ],
+        ]
+},
+{
      "Name": "masal dosa",
     "ingredients":[
       {
@@ -82,7 +85,8 @@
       "Spread the butter and  masala ",
       "close the pan",
       "Ready the masal dosa"
-     ],
+     ]
   }
+
 ]
 }
