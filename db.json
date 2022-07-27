@@ -1,14 +1,87 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "Name": "venpongal",
+    "ingredients":[
+      {
+         "quantity": "2tsp",
+          "name": "Ghee ",
+          "type": "oil"
+      },
+      {
+         "quantity": "1cup",
+          "name": "green rice ",
+          "type": "rice"
+      },
+      {
+         "quantity": "1cup",
+          "name": "moong dal ",
+          "type": "dal"
+      }
+      ],
+    "preparation":[
+      "pour 2tps ghee added to a cooker",
+      "Roasted the moong dal and add the  rice ",
+      "added the water and required salt"
+     ],
+    
+      "name": "Curried Lentils and Rice",
+        "ingredients": [
+            {
+                "quantity": "1 quart",
+                "name": "beef broth",
+                "type": "Misc"
+            },
+            {
+                "quantity": "1 cup",
+                "name": "dried green lentils",
+                "type": "Misc"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "basmati rice",
+                "type": "Misc"
+            },
+            {
+                "quantity": "1 tsp",
+                "name": "curry powder",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1 tsp",
+                "name": "salt",
+                "type": "Condiments"
+            }
+        ],
+        "steps": [
+            "Bring broth to a low boil.",
+            "Add curry powder and salt.",
+            "Cook lentils for 20 minutes.",
+            "Add rice and simmer for 20 minutes.",
+            "Enjoy!"
+        ],
+     "Name": "masal dosa",
+    "ingredients":[
+      {
+         "quantity": "1 cup",
+          "name": "dosa butter ",
+          "type": "butter"
+      },
+      {
+         "quantity": "1 tsp",
+          "name": "potato masala",
+          "type": "masala"
+      },
+      {
+         "quantity": "1 tsp",
+          "name": " groundnut oil",
+          "type": "oil"
+      }
+      ],
+    "preparation":[
+      "Take the pan and the oil",
+      "Spread the butter and  masala ",
+      "close the pan",
+      "Ready the masal dosa"
+     ]
   }
-}
+]
