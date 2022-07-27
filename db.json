@@ -2,24 +2,8 @@
   {
     "id":1,
     "name": "venpongal",
-    "ingredients":[
-      {
-         "quantity": "2tsp",
-          "name": "Ghee ",
-          "type": "oil"
-      },
-      {
-         "quantity": "1cup",
-          "name": "green rice ",
-          "type": "rice"
-      },
-      {
-         "quantity": "1cup",
-          "name": "moong dal ",
-          "type": "dal"
-      }
-      ],
-    "preparation":[
+    "ingredients":["Ghee","Moong dal" ,"water","salt"]
+       "preparation":[
       "pour 2tps ghee added to a cooker",
       "Roasted the moong dal and add the  rice ",
       "added the water and required salt"
@@ -28,33 +12,9 @@
   { 
     "id":2,
       "name": "Curried Lentils and Rice",
-        "ingredients": [
-            {
-                "quantity": "1 quart",
-                "name": "beef broth",
-                "type": "Misc"
-            },
-            {
-                "quantity": "1 cup",
-                "name": "dried green lentils",
-                "type": "Misc"
-            },
-            {
-                "quantity": "1/2 cup",
-                "name": "basmati rice",
-                "type": "Misc"
-            },
-            {
-                "quantity": "1 tsp",
-                "name": "curry powder",
-                "type": "Condiments"
-            },
-            {
-                "quantity": "1 tsp",
-                "name": "salt",
-                "type": "Condiments"
-            }
-        ],
+   
+        "ingredients": [ "beef broth", "dried green lentils",  "curry powder","basmati rice","salt",],
+           
         "preparation": [
             "Bring broth to a low boil.",
             "Add curry powder and salt.",
@@ -66,24 +26,8 @@
 {
     "id":3,
      "name": "masal dosa",
-    "ingredients":[
-      {
-        
-         "quantity": "1 cup",
-          "name": "dosa butter ",
-          "type": "butter"
-      },
-      {
-         "quantity": "1 tsp",
-          "name": "potato masala",
-          "type": "masala"
-      },
-      {
-         "quantity": "1 tsp",
-          "name": " groundnut oil",
-          "type": "oil"
-      }
-      ],
+    "ingredients":[ "dosa butter ", "potato masala"," groundnut oil",]
+     
     "preparation":[
       "Take the pan and the oil",
       "Spread the butter and  masala ",
